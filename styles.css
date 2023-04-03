@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
-.container{
+main{
 	width: 200px;
 	background-color: purple;
 }
-p{
+#heading{
 	padding:10px;
 	color:white;
 	font-size: 20px;
