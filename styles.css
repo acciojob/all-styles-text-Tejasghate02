@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
-main{
+.main{
 	width: 200px;
-	background-color: purple;
+	background-color: rgb(128, 0, 128);
 }
 #heading{
 	padding:10px;
